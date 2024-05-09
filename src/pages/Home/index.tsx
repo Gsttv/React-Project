@@ -1,6 +1,6 @@
 import { Cards } from "../../components/Card";
 import { FaPlus } from "react-icons/fa";
-
+import "./styles.css"
 const Home = () =>{
     const data = [
         {
